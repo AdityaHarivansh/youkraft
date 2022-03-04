@@ -3,7 +3,8 @@ Interview Project
 
 #About the Project:
 The project shows you a form to enter a candidate's following details:
-  Username : required and should be unique for all candidates
+  Username : required and should be unique for all candidates. 
+  
   Email: required and should be of type email
   Age: not required but should be in the bracket of 22-60
   Phone Number : required and should be in correct indian number format without country code
