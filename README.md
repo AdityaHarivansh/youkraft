@@ -1,7 +1,7 @@
 # Youkraft
 Interview Project
 
-#About the Project
+#About the Project:
 The project shows you a form to enter a candidate's following details:
   Username : required and should be unique for all candidates
   Email: required and should be of type email
@@ -15,6 +15,6 @@ Below the form you can see a table that contains the list of candidates. The tab
 If no candidates are the table wont be visble .
 There is and additional button to help you  navigate to your company Website.
 
-#About the Questions
+#About the Questions:
 In the public folder of the project you can find a docx file that contains answers to both questions.
 
