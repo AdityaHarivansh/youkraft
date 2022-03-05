@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/youkraft/static/css/main.55bb2754.css",
+    "main.js": "/youkraft/static/js/main.46b02bc1.js",
+    "static/media/sceneReal.png": "/youkraft/static/media/sceneReal.a731bf565e1663d2d77c.png",
+    "index.html": "/youkraft/index.html",
+    "main.55bb2754.css.map": "/youkraft/static/css/main.55bb2754.css.map",
+    "main.46b02bc1.js.map": "/youkraft/static/js/main.46b02bc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55bb2754.css",
+    "static/js/main.46b02bc1.js"
+  ]
+}
