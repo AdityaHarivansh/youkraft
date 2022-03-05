@@ -28,3 +28,9 @@ There is and additional button to help you  navigate to your company Website.
 
 In the public folder of the project you can find a docx file that contains answers to both questions.
 
+
+#Run the project. 
+
+As you can see a buttton at top of the page named "Code", click on that and copy the link provided.
+
+
