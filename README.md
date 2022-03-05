@@ -31,7 +31,7 @@ In the public folder of the project you can find a docx file that contains answe
 
 #Run the project. 
 
-->As you can see a buttton at top of the page named "Code", click on that and copy the link provided.Let's call it "url"
+->As you can see a buttton at top of the page named "Code", click on that and copy the link provided.Let's call it "url". 
 ->Go to your IDE  like Visual Studio.Navigate to the location where you want to clone the project in terminal.Then run the code "git clone {url}" in terminal. 
 ->The project is now locally in your computer.  
 ->Run the command "npm i" to install all the dependencies.(Given node is already installed in your system,  or else start with that). 
